@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+:root {
+  --font-heading: "Sen", sans-serif;
+  --color-button: rgba(255, 185, 0, 1);
+}
+/* khoi phuc lai co chu mac dinh cho rem */
+body {
+  font-size: 1.6rem;
+  font-family: "Sen", sans-serif;
+}
